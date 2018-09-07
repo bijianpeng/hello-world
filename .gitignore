@@ -19,5 +19,36 @@
 *.tar.gz
 *.rar
 
+# maven gitignore#
+target/**
+
+.svn/
+
+# intelliJ.gitignore #
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Eclipse git ignore#
+*.pydevproject
+.project
+.metadata
+bin/**
+*/bin/**
+tmp/**
+tmp/**/*
+configuration/**
+*.tmp
+*.bak
+*.orig
+*.swp
+*~.nib
+.classpath
+.settings/
+.loadpath
+.fileTable*
+.cache
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
