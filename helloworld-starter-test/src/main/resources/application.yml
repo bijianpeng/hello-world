@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: helloworld.starter.test
+my-config:
+  name: bjp
+  age: 30

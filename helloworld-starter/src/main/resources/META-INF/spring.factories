@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.bjp.helloworld.starter.autoconfiguration.MyAutoConfiguration

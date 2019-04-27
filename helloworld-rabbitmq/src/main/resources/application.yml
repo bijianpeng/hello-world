@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: tut2,consumer
+  rabbitmq:
+    host: 192.168.56.99
+
+logging:
+  level:
+    org: ERROR
+
+tutorial:
+  duration: 300000
